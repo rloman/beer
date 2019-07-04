@@ -1,0 +1,31 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+
+## ignore for Spring Boot (ignore application.properties in src/main/resources/config since that is now per developer and possibly per environment
+src/main/resources/config/*
+!src/main/resources/config/application.properties.example
+out
