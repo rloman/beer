@@ -1,4 +1,4 @@
-package nl.youngcapital.beer.builder.dates;
+package nl.youngcapital.beer.dates;
 
 import java.time.LocalDate;
 

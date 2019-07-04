@@ -1,6 +1,6 @@
-package nl.youngcapital.beer.builder.equality;
+package nl.youngcapital.beer.equality;
 
-import nl.youngcapital.beer.builder.arraylist.Elpee;
+import nl.youngcapital.beer.arraylist.Elpee;
 
 import java.util.ArrayList;
 

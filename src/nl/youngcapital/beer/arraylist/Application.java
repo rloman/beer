@@ -1,4 +1,4 @@
-package nl.youngcapital.beer.builder.arraylist;
+package nl.youngcapital.beer.arraylist;
 
 import java.util.ArrayList;
 import java.util.Arrays;

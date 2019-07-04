@@ -1,4 +1,4 @@
-package nl.youngcapital.beer.builder.arraylist;
+package nl.youngcapital.beer.arraylist;
 
 public class Elpee {
 

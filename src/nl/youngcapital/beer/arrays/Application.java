@@ -1,4 +1,4 @@
-package nl.youngcapital.beer.builder.arrays;
+package nl.youngcapital.beer.arrays;
 
 public class Application {
 
